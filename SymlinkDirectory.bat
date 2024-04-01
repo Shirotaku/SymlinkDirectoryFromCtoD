@@ -76,3 +76,4 @@ if %errorlevel% neq 0 (
 
 :eof
 pause
+exit
