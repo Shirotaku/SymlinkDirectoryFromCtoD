@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\MoveAndSymlink]
+@="Move and Create Symlink"
+
+[HKEY_CLASSES_ROOT\Directory\shell\MoveAndSymlink\command]
+@="\"D:\\Scripts\\SymlinkDirectory.bat\" \"%1\""
